@@ -88,6 +88,6 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## Contact
 
-Votre Nom - [@votre_twitter](https://twitter.com/votre_twitter)
+Mabchour Abderrahmane
 
 Lien du projet : [https://github.com/mabchoor/exam-mobile](https://github.com/mabchoor/exam-mobile)
